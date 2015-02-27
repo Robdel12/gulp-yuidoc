@@ -1,3 +1,7 @@
+# THIS IS TEMPORARY
+
+This is only published so everyone that contributes to [DropKick.js](http://github.com/robdel12/DropKick) can build docs with a local filepath. There is an open PR vs gulp-yuidoc to integrate this into the project.
+
 gulp-yuidoc
 ===========
 
