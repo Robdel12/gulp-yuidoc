@@ -1,5 +1,5 @@
 {
-  "name": "gulp-yuidoc",
+  "name": "gulp-yuidoc-relative",
   "version": "0.1.2",
   "description": "A yuidoc plugin for Gulp",
   "keywords": [
